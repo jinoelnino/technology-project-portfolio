@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jinoelnino.github.io/technology-project-portfolio/sitemap.xml
