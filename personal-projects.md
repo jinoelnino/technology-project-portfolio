@@ -22,8 +22,6 @@ These related projects explore the relationship between content preparation, syn
 | Android Phone Backup | Windows-based helper for accessible Android files |
 | Subject Media Crawler | Web interface for collecting media around a topic |
 | Immich Review Scanner | Local GPU-assisted media review utility |
-| Body Proportion Editor | Extension experiment within an existing image-generation ecosystem |
-| NexusWord | Word add-in pilot work |
 
 These are project and prototype summaries. Private libraries, personal financial records, documents and media collections are excluded.
 
