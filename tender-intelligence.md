@@ -8,7 +8,7 @@ A platform for tender discovery, qualification, team coordination and opportunit
 
 Opportunity teams need to move from source material to a reviewed decision while preserving ownership, access controls and clear stage progression.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Contributed to opportunity stages, team workflows, data-source integration and operational views.
 - Directed a consistent interface refresh and workflow-oriented, searchable help centre.
@@ -27,8 +27,8 @@ Opportunity teams need to move from source material to a reviewed decision while
 
 The refreshed frontend and contextual help were deployed. Access provisioning was verified across identity and application state. Service recovery addressed a frontend restart gap and was checked through application and backend health. Internal approval is not represented as submission to an external tender portal.
 
-## Technology context
+## Platform landscape
 
-React, TypeScript, Vite, Tailwind, Python, SQL, APIs, Docker, identity integration and document-processing workflows.
+Enterprise APIs, data services, containers, identity integration and document-processing workflows.
 
 [Back to portfolio](README.md)

@@ -8,7 +8,7 @@ Cross-project work translating architecture into repeatable deployment, verifica
 
 A platform is difficult to sustain if its release depends on one person, undocumented environment state or a successful build alone.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Established distinctions between development, test and customer pilot environments.
 - Contributed to release baselines, backup coverage, rollback planning and deployed-artifact verification.
@@ -27,7 +27,7 @@ A platform is difficult to sustain if its release depends on one person, undocum
 
 Nexus work included environment separation, recovery and development release verification. Cosmos work produced handover documentation, isolated setup and migration controls. A separate public product-site refresh was deployed and checked. Customer readiness and independent maintainer sign-off are not inferred from those individual results.
 
-## Technology context
+## Platform landscape
 
 Linux, containers, Kubernetes, MySQL, Git, service supervision, backup and restore workflows, HTTPS and operational documentation.
 

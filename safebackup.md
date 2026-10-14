@@ -8,7 +8,7 @@ A backup utility prototype focused on accessible setup, scheduling and recovery 
 
 Users need a manageable way to configure backups and understand installation, scheduling and recovery without relying on ad hoc scripts.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Worked on application setup, launcher behavior and installation/uninstallation flows.
 - Defined a simple interface and scheduling approach for non-technical users.
@@ -24,8 +24,8 @@ Users need a manageable way to configure backups and understand installation, sc
 
 The project produced a prototype direction, supporting packaging work and recovery-oriented documentation. It is presented as a prototype rather than a commercially qualified backup product.
 
-## Technology context
+## Platform landscape
 
-macOS, Python, shell tooling, web interface and scheduled jobs.
+macOS, scheduled backup workflows, recovery validation and a browser-based control interface.
 
 [Back to portfolio](README.md)

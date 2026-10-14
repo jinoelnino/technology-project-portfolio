@@ -8,9 +8,9 @@ An integrated operational view across network inventory, monitoring, security ev
 
 Operators must reconcile observations from multiple tools. Stale records, inconsistent device identities and ambiguous failures can produce misleading conclusions unless the system preserves context.
 
-## My contribution
+## Architecture and leadership contribution
 
-- Contributed to phased architecture spanning discovery, inventory, endpoint evidence, identity and investigation.
+- Defined phased architecture spanning discovery, inventory, endpoint evidence, identity and investigation.
 - Defined requirements for source provenance, evidence freshness, site scope and role-aware access.
 - Directed reliability work around endpoint reporting, service continuity and recovery verification.
 - Developed the investigation approach around supporting evidence, counter-evidence and useful next checks.
@@ -41,8 +41,8 @@ flowchart LR
 
 The pilot gained structured reporting-cause assessments with evidence, limitations and distinguishing next checks, verified through automated checks and the signed-in interface. Endpoint recovery and service continuity were also exercised in controlled work. Symptom-time correlation, shared-cause analysis and approved remediation remain follow-on work.
 
-## Technology context
+## Platform landscape
 
-React, TypeScript, FastAPI/Python, PostgreSQL, Keycloak, Docker, NetBox, LibreNMS, Wazuh, Grafana, InfluxDB and Ollama.
+Inventory, monitoring and security integration using NetBox, LibreNMS, Wazuh and Grafana; Keycloak identity, containerized services, data platforms and local inference with Ollama.
 
 [Back to portfolio](README.md)

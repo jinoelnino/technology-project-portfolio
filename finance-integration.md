@@ -8,7 +8,7 @@ A Cosmos workstream improving the reliability and interpretability of reports so
 
 A business report can become unusable if every page load depends on a reachable accounting service. A failed refresh must also not replace valid financial information with empty or misleading results.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Defined report behavior when the accounting dependency is slow or unavailable.
 - Contributed to validated refresh and saved-snapshot workflows with visible freshness.
@@ -42,9 +42,9 @@ flowchart LR
 
 Reporting gained validated saved-data behavior and clearer review/matching screens. Recent checks exercised failure retention, mappings and report rendering. End-to-end scheduling remains a separate operational check from an individual successful refresh.
 
-## Technology context
+## Platform landscape
 
-Tally integration, Python, MySQL, REST/XML interfaces, snapshot validation and financial reporting.
+Tally integration, MySQL, REST/XML interfaces, snapshot validation and financial reporting.
 
 [Parent platform: Cosmos](cosmos-operations.md)
 

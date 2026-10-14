@@ -8,7 +8,7 @@ A focused Nexus One AI workstream connecting policy configuration, independent r
 
 Policy controls become difficult to trust when configuration, review, model execution and investigation are disconnected. Operators need to understand both the decision and the evidence behind it.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Shaped the governance workflow from reusable detectors and groups through policy review, testing and investigation.
 - Defined the need for traceability between incoming requests, processing jobs, model attempts and inspection decisions.
@@ -41,9 +41,9 @@ flowchart LR
 
 Validated workflows include credential lifecycle operations, policy review, saved tests, correlated request investigation, in-app alert assignment and resolution, and policy impact preview. Coverage is bounded to supported application paths. Token accounting is not presented as monetary billing, and controls are not described as compliance certification.
 
-## Technology context
+## Platform landscape
 
-Python services, policy evaluation, role-based access, audit metadata, local model integration, shared web UI components and automated workflow checks.
+Policy evaluation, role-based access, audit metadata, local model integration, shared workspace controls and workflow validation.
 
 [Parent platform: Nexus One AI](nexus-one-ai.md)
 

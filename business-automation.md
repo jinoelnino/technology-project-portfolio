@@ -8,7 +8,7 @@ Integration across marketing, messaging, contact management and support workflow
 
 Disconnected campaign, contact and messaging tools create repeated manual work and unclear delivery state.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Designed and configured contact imports, segmentation, campaign and form workflows.
 - Connected communication platforms and investigated message delivery behavior.
@@ -40,7 +40,7 @@ flowchart LR
 
 The work produced connected campaign and messaging workflows, delivery troubleshooting and operational guidance. Social publishing support also included service-recovery work. The portfolio does not claim authorship of the underlying communication platforms.
 
-## Technology context
+## Platform landscape
 
 Mautic, n8n, Chatwoot, Twilio, WhatsApp APIs, Zammad, Postiz, Nextcloud, Zoho, webhooks and REST APIs.
 

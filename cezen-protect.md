@@ -8,7 +8,7 @@ Security dashboard customization and integration work based on established open-
 
 Security tooling needs an operator-facing experience that fits the surrounding environment while respecting the maintenance and attribution requirements of its upstream platform.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Worked within the Cezen Protect dashboard and security-platform project context.
 - Contributed to dashboard customization and the surrounding deployment/integration work.
@@ -24,8 +24,8 @@ Security tooling needs an operator-facing experience that fits the surrounding e
 
 This project demonstrates experience adapting an existing security platform to an enterprise product context. The private implementation is not part of this portfolio.
 
-## Technology context
+## Platform landscape
 
-OpenSearch Dashboards, TypeScript, Docker and the Wazuh security ecosystem.
+OpenSearch Dashboards, containers and the Wazuh security ecosystem.
 
 [Back to portfolio](README.md)

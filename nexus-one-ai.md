@@ -8,9 +8,9 @@ Architecture and integration of an enterprise AI workspace combining local model
 
 An organization needs more than a model endpoint: users need controlled access to knowledge, administrators need visibility, and operators need a platform they can deploy and recover.
 
-## My contribution
+## Architecture and leadership contribution
 
-- Contributed to the platform architecture and phased delivery plan across inference, identity, knowledge services and operations.
+- Led platform architecture and phased delivery planning across inference, identity, knowledge services and operations.
 - Defined integration and environment boundaries, with development/testing separated from customer pilot preparation.
 - Directed workspace usability improvements and validation for prompt, translation and source-grounded knowledge workflows.
 - Prepared technical explanations and product material that connect platform capabilities to deployment requirements.
@@ -42,9 +42,9 @@ flowchart LR
 
 Recent development validation covered prompt generation, template workflows, text and text-file translation, and Notebook queries with citations. Shared interface components and responsive priority workspaces were delivered. Broader workspace migration and customer acceptance remain separate stages; this case study does not claim a universally air-gapped or certified deployment.
 
-## Technology context
+## Platform landscape
 
-Linux, Docker, Kubernetes, GPU/CPU inference, Ollama, OpenWebUI, Python, REST APIs, retrieval-augmented generation, SSO/OIDC and data services.
+GPU/CPU inference, container deployment options, Ollama, OpenWebUI, enterprise APIs, retrieval-augmented generation, SSO/OIDC and data services.
 
 [Explore the AI governance workstream](ai-governance.md) · [Platform delivery approach](platform-delivery.md)
 

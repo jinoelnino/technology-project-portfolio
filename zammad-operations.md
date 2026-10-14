@@ -8,7 +8,7 @@ Operational reliability and integration work for an internal service-management 
 
 A ticketing application needs reliable email ingestion, appropriate assignment and clear visibility into service failures to support day-to-day operations.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Investigated ticket creation, assignments, tags, permissions and interface issues.
 - Introduced recurring checks for service health and email-fetch state.
@@ -25,7 +25,7 @@ A ticketing application needs reliable email ingestion, appropriate assignment a
 
 The work improved operational visibility into ticket ingestion and service state, supported incident troubleshooting and documented recovery actions.
 
-## Technology context
+## Platform landscape
 
 Zammad, Linux, systemd, email channels, API integration and service-health automation.
 

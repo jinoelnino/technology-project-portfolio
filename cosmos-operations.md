@@ -8,7 +8,7 @@ Connected workflows across purchasing, finance, vendors, service contracts and m
 
 Business teams need consistent records and clear actions across purchasing, delivery, invoicing, service and finance. Inconsistent identity, permissions or report context can create operational errors.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Translated operational requirements into connected purchasing, vendor, reimbursement, service-contract and reporting workflows.
 - Refined role-aware visibility, validation, exports and review experiences.
@@ -27,9 +27,9 @@ Business teams need consistent records and clear actions across purchasing, deli
 
 Recent delivery included consolidated bill review, improved matching context, finance tracking and production-verified report changes. Handover work established reproducible development setup and operational documentation; independent maintainer and staging acceptance remain separate gates.
 
-## Technology context
+## Platform landscape
 
-Python, MySQL, REST APIs, web interfaces, Linux, Docker, Tally integration and report generation.
+MySQL, enterprise APIs, Linux, containers, Tally integration and financial reporting.
 
 [Read the finance integration study](finance-integration.md) · [Read the handover study](platform-delivery.md)
 

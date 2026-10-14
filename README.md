@@ -1,9 +1,9 @@
 # Jino Jose
 
-**AI Infrastructure and Solutions Architecture**  
+**AI Infrastructure & Solutions Architect**  
 Private AI · Enterprise platforms · Integration · Operational resilience
 
-I work across infrastructure architecture, platform integration and the delivery of business systems. My recent work at Cezen Technologies brings together local AI, enterprise knowledge, identity, observability and operational workflows. I translate requirements into system boundaries, technology choices, acceptance criteria and maintainable operations.
+I lead AI infrastructure solution design, architecture decisions and technical delivery coordination. My recent work at Cezen Technologies brings together local AI, enterprise knowledge, identity, observability and operational workflows. I translate requirements into system boundaries, technology choices, acceptance criteria and maintainable operations.
 
 [**Visit the portfolio website**](https://jinoelnino.github.io/technology-project-portfolio/) · [LinkedIn](https://www.linkedin.com/in/jinojo/) · [GitHub](https://github.com/jinoelnino)
 
@@ -50,7 +50,7 @@ My contribution spans requirements, architecture, integration planning, delivery
 | Identity and data | Keycloak, OIDC/SSO, PostgreSQL, MySQL, REST APIs |
 | Monitoring and security | NetBox, LibreNMS, Wazuh, Grafana, OpenSearch Dashboards |
 | Business and communications | Tally, Zammad, Mautic, n8n, Chatwoot, Twilio |
-| Application ecosystem | Python/FastAPI, React/TypeScript, React Native/Expo |
+| Architecture leadership | Requirements discovery, technology evaluation, GPU capacity planning, OEM coordination and release acceptance |
 
 ## About these case studies
 

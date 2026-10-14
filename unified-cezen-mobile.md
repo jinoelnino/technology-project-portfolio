@@ -8,7 +8,7 @@ An Android application bringing selected internal services and workflows into a 
 
 Mobile users need coherent navigation and authentication while the underlying services continue to own business rules and data.
 
-## My contribution
+## Architecture and leadership contribution
 
 - Worked on service integration, mobile navigation, branding and authentication requirements.
 - Supported the connection between business APIs and mobile workflows.
@@ -25,8 +25,8 @@ Mobile users need coherent navigation and authentication while the underlying se
 
 Delivery covered Android packaging and integration troubleshooting with selected internal services. iOS expansion was exploratory and is not presented as a delivered release.
 
-## Technology context
+## Platform landscape
 
-React Native, Expo, REST APIs, Android Studio, Gradle, ADB and Linux-hosted services.
+Mobile-to-service integration, enterprise APIs, Android delivery, authentication and Linux-hosted services.
 
 [Back to portfolio](README.md)
