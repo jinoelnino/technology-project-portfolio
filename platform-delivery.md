@@ -33,4 +33,12 @@ Linux, containers, Kubernetes, MySQL, Git, service supervision, backup and resto
 
 [Nexus One AI](nexus-one-ai.md) · [Cosmos](cosmos-operations.md)
 
+## Offline release design
+
+Release planning distinguished base installation from model and runtime payloads, with attention to dependency completeness, provenance and rollback. A successful package build is one acceptance stage; restricted-connectivity behavior must be tested across the full dependency chain.
+
+**Pending:** Release-specific offline qualification remains separate from completed development checks.
+
+[Explore AI infrastructure decisions](ai-infrastructure.md)
+
 [Back to portfolio](README.md)

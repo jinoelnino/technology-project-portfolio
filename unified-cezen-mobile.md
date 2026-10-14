@@ -29,4 +29,6 @@ Delivery covered Android packaging and integration troubleshooting with selected
 
 Mobile-to-service integration, enterprise APIs, Android delivery, authentication and Linux-hosted services.
 
+[Explore enterprise identity and collaboration decisions](enterprise-identity.md)
+
 [Back to portfolio](README.md)

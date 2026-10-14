@@ -44,4 +44,10 @@ The work produced connected campaign and messaging workflows, delivery troublesh
 
 Mautic, n8n, Chatwoot, Twilio, WhatsApp APIs, Zammad, Postiz, Nextcloud, Zoho, webhooks and REST APIs.
 
+## Lead Intelligence and outreach integration
+
+Lead Engine work connected lead intake and contact normalization to campaign handoff, segmentation and delivery state. My architecture contribution centered on service separation, integration responsibilities and migration planning across the custom intake layer and established campaign tools.
+
+The history includes a deployed stack, contact handoff and operational migration/recovery work. These are integration outcomes, not claims of a proprietary marketing platform, guaranteed data quality or outreach results. Contact databases and campaign configurations remain private.
+
 [Back to portfolio](README.md)

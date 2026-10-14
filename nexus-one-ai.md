@@ -48,4 +48,13 @@ GPU/CPU inference, container deployment options, Ollama, OpenWebUI, enterprise A
 
 [Explore the AI governance workstream](ai-governance.md) · [Platform delivery approach](platform-delivery.md)
 
+## Architecture workstreams
+
+These studies examine responsibilities within Nexus One AI, not separate products.
+
+- [AI infrastructure and release architecture](ai-infrastructure.md): workload sizing, GPU boundaries and dependency packaging.
+- [Governed agents and Office integration](governed-agents.md): pilot architecture with live Windows validation pending.
+- [Document intelligence](document-intelligence.md): source context, durable jobs and comparison acceptance.
+
+
 [Back to portfolio](README.md)

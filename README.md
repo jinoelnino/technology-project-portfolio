@@ -18,7 +18,16 @@ I lead AI infrastructure solution design, architecture decisions and technical d
 | [Finance integration resilience](finance-integration.md) | How do you keep business reports useful when an accounting dependency is unavailable? | Deployed integration improvements within Cosmos |
 | [Tender Intelligence](tender-intelligence.md) | How do you make opportunity qualification usable, controlled and supportable? | Deployed interface, help and operational improvements |
 
-The two focused studies on AI governance and finance integration examine workstreams within their parent platforms; they are not separate products.
+Focused studies examine workstreams within their parent platforms; they are not separate products.
+
+## AI architecture deep dives
+
+| Workstream | Focus | Status |
+|---|---|---|
+| [AI infrastructure](ai-infrastructure.md) | GPU boundaries, workload sizing and release design | Development validation; offline qualification pending |
+| [Governed agents](governed-agents.md) | Reviewable actions and Office integration | Pilot; live Windows validation pending |
+| [Document intelligence](document-intelligence.md) | Provenance, durable jobs and comparison | Selected workflow acceptance; authorization follow-up pending |
+| [Enterprise identity](enterprise-identity.md) | SSO, mobile sessions and calendar/meeting integration | Selected integrations; broader sync work pending |
 
 ## Additional project experience
 

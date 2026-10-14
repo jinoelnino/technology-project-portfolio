@@ -35,4 +35,14 @@ These are project and prototype summaries. Private libraries, personal financial
 
 OpenMontage, Inbox Zero and ebook2audiobook are upstream software checkouts/evaluations. Flatris-LAB is a fork used in an Azure DevOps learning context. Their original authors retain credit for the underlying software; repository ownership does not imply original authorship.
 
+## AI evaluation prototypes
+
+**Satya / DF-Check — prototype and evaluation.** Explored a mobile-assisted deepfake-detection workflow, model suitability and dataset design. The architecture focus was the separation of client, inference service and evaluation data, with explicit attention to uncertain results. Validated accuracy, demographic fairness and production readiness were not established.
+
+**Multimodal GPU workflows — exploration.** Evaluated remote GPU approaches for image, video and speech-related workflows, including ComfyUI. This is learning and workload exploration; recommendations in the history are not represented as completed deployments.
+
+## Solution architecture concepts
+
+**Legacy industrial integration — concept/presentation only.** Developed a high-level explanation of connecting legacy operational data to modern interfaces, considering redundancy and controlled write boundaries. This demonstrates architecture communication; no customer implementation, failover performance or operational safety certification is claimed.
+
 [Back to portfolio](README.md)

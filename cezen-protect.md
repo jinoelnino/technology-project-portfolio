@@ -28,4 +28,10 @@ This project demonstrates experience adapting an existing security platform to a
 
 OpenSearch Dashboards, containers and the Wazuh security ecosystem.
 
+## UTMStack evaluation
+
+**Status: Evaluation and customization work; product qualification not established.**
+
+A related workstream explored UTMStack as an alternative security-platform foundation. The architecture lesson was to evaluate upstream fit, operator workflows and maintenance cost before treating interface customization as product readiness. The reviewed work retained interface issues; it is not presented as a completed security product.
+
 [Back to portfolio](README.md)
