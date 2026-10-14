@@ -5,7 +5,7 @@ Private AI · Enterprise platforms · Integration · Operational resilience
 
 I work across infrastructure architecture, platform integration and the delivery of business systems. My recent work at Cezen Technologies brings together local AI, enterprise knowledge, identity, observability and operational workflows. I translate requirements into system boundaries, technology choices, acceptance criteria and maintainable operations.
 
-[LinkedIn](https://www.linkedin.com/in/jinojo/) · [GitHub](https://github.com/jinoelnino)
+[**Visit the portfolio website**](https://jinoelnino.github.io/technology-project-portfolio/) · [LinkedIn](https://www.linkedin.com/in/jinojo/) · [GitHub](https://github.com/jinoelnino)
 
 ## Start here
 
@@ -54,7 +54,7 @@ My contribution spans requirements, architecture, integration planning, delivery
 
 ## About these case studies
 
-This is a documentation-only professional portfolio. Commercial work was undertaken at Cezen Technologies; product names identify that context and do not imply independent ownership. Proprietary source, customer information, production configurations and internal operational evidence are excluded. Diagrams are simplified conceptual illustrations.
+This repository contains my professional portfolio website and sanitized architecture case studies. The website presentation code is original portfolio material; it does not include company product implementation. Commercial work was undertaken at Cezen Technologies; product names identify that context and do not imply independent ownership. Proprietary source, customer information, production configurations and internal operational evidence are excluded. Diagrams are simplified conceptual illustrations.
 
 Delivery scope is stated for each project. Development validation and pilot work are presented at that level, without implying customer-wide acceptance or compliance certification.
 
